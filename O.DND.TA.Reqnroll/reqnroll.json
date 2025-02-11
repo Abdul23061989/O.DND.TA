@@ -1,0 +1,11 @@
+﻿{
+  "reqnroll": {
+    "runtime": {
+      "missingOrPendingStepsOutcome": "Ignore"
+    },
+    "generator": {
+      "allowDebugGeneratedFiles": true
+    },
+    "plugins": []
+  }
+}

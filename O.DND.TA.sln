@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O.DND.TA.NUnit", "O.DND.TA.NUnit\O.DND.TA.NUnit.csproj", "{92B50040-F6F8-49B4-B38C-742CCFB29E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O.DND.TA.Reqnroll", "O.DND.TA.Reqnroll\O.DND.TA.Reqnroll.csproj", "{D3CAC557-B266-4337-A9F0-0F9F68F35960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92B50040-F6F8-49B4-B38C-742CCFB29E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B50040-F6F8-49B4-B38C-742CCFB29E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B50040-F6F8-49B4-B38C-742CCFB29E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B50040-F6F8-49B4-B38C-742CCFB29E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CAC557-B266-4337-A9F0-0F9F68F35960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CAC557-B266-4337-A9F0-0F9F68F35960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CAC557-B266-4337-A9F0-0F9F68F35960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CAC557-B266-4337-A9F0-0F9F68F35960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
