@@ -1,6 +1,6 @@
 ﻿namespace O.DND.TA.NUnit.Methods
 {
-    public class CommonMethods
+    public class MathematicalOperationsMethods
     {
         public static async Task<int> Add(int a, int b)
         {
